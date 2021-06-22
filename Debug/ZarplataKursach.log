@@ -1,0 +1,11 @@
+﻿  Authentication.cpp
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\User.h(716,32): warning C4129: e: неизвестная escape-последовательность
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\User.h(430,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\User.h(567,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\User.h(686,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\CalculateSalary.h(791,25): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\CalculateSalary.h(988,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\CalculateSalary.h(1078,30): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\CalculateSalary.h(1108,29): warning C4018: <: несоответствие типов со знаком и без знака
+  Authentication.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ZarplataKursach.vcxproj -> D:\Лекции\2 курс\ОАИП Шаляпин\Еще курсовая\ZarplataKursach\Debug\ZarplataKursach.exe
